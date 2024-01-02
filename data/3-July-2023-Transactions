@@ -1,0 +1,151 @@
+Date,Description,Amount,Tag,Account,Category
+2023-07-31,Digital Transfer Inc,-17.17,Wants,Daily,Transfer
+2023-07-31,Contracting,1102.98,No Tag,Daily,Paycheck
+2023-07-31,Cybernet Connect,-59.99,Musts,Daily,Internet
+2023-07-31,FictionalMarketStore,-25.29,Wants,Daily,Shopping
+2023-07-31,Pixel Playhouse,-82.98,Wants,Daily,Entertainment
+2023-07-31,Digital Transfer Inc,-81.21,Wants,Daily,Transfer
+2023-07-31,OnlineBankingHub,319.0,Debt & Savings,Apple Card,Transfer
+2023-07-30,Fitness Galaxy,-50.66,Wants,Daily,Gym
+2023-07-30,Leandro Fuel Station,-112.83,Musts,Daily,Gas & Fuel
+2023-07-30,Techtronix Store,-1.99,Wants,Apple Card,Electronics & Software
+2023-07-30,Techtronix Store,-5.99,Wants,Apple Card,Electronics & Software
+2023-07-28,Hillside Wellness,-160.0,Musts,CREDIT CARD,Doctor
+2023-07-28,Seafood Haven,-100.0,Wants,Daily,Restaurants
+2023-07-27,Future Insurance Co,-126.16,Musts,Daily,Life Insurance
+2023-07-26,Bistro Delight,-11.06,Wants,Apple Card,Restaurants
+2023-07-26,Modern Fashion Hub,-10.0,Musts,Daily,Clothing
+2023-07-25,Digital Transfer Hub,795.0,No Tag,Daily,Transfer
+2023-07-25,EcoPower Inc,-514.93,Musts,Daily,Utilities
+2023-07-25,Charitable Foundation,-245.0,Musts,Daily,Charity
+2023-07-25,Education Central,-490.0,Musts,Daily,Tuition
+2023-07-24,OnlineBankingHub,12029.0,No Tag,Savings Account,Transfer
+2023-07-24,OnlineBankingHub,-2600.0,No Tag,Daily,Transfer
+2023-07-24,OnlineBankingHub,-12029.0,No Tag,Daily,Transfer
+2023-07-24,Hill Fuel Co,-14.0,Musts,Daily,Gas & Fuel
+2023-07-24,OnlineBankingHub,2600.0,No Tag,Rental Unit 2,Transfer
+2023-07-24,Quick Eats,-2.31,No Tag,Apple Card,Income
+2023-07-24,GreenGrocer,-211.36,Musts,Daily,Groceries
+2023-07-24,Digital Transfer Inc,-32.28,Wants,Daily,Transfer
+2023-07-24,Pixel Playhouse,-1.99,Wants,Daily,Entertainment
+2023-07-23,Rapid Rentals,-1140.31,Wants,Apple Card,Rental Car & Taxi
+2023-07-22,Charitable Way,-19.33,Wants,Apple Card,Charity
+2023-07-22,Gourmet Express,-37.6,Wants,Apple Card,Restaurants
+2023-07-22,FastBite,-4.25,Wants,Apple Card,Fast Food
+2023-07-22,Home Essentials,-38.08,Wants,Apple Card,Home Supplies
+2023-07-22,OnlineBankingHub,200.0,No Tag,Personal Emergency,Transfer
+2023-07-22,OnlineBankingHub,-200.0,No Tag,Daily,Transfer
+2023-07-21,Phoenix Wellness,-31.21,Wants,Apple Card,Doctor
+2023-07-21,Quick Eats,-3.67,Wants,Apple Card,Fast Food
+2023-07-20,Exquisite Thai,-68.6,Wants,Apple Card,Restaurants
+2023-07-20,Cafe Delight,-26.74,Wants,Apple Card,Coffee Shops
+2023-07-20,Marine Therapy,-18.43,Wants,Apple Card,Doctor
+2023-07-20,Gourmet Haven,-11.53,Wants,Apple Card,Restaurants
+2023-07-20,StreamWorld Inc,8275.75,No Tag,Daily,Television
+2023-07-20,StreamWorld Inc,1500.0,No Tag,Savings Account,Television
+2023-07-19,Bistro Delight,-33.17,Wants,Apple Card,Restaurants
+2023-07-19,La Cuisine,-184.18,Wants,Apple Card,Restaurants
+2023-07-19,Luxury Stays,-21.44,Wants,Apple Card,Hotel
+2023-07-19,Bistro Delight,-10.98,Wants,Apple Card,Restaurants
+2023-07-18,Wine & More,-147.48,Wants,Apple Card,Alcohol & Bars
+2023-07-18,Golden Lotus Cuisine,-58.08,Wants,Apple Card,Restaurants
+2023-07-17,Orion Resorts,-103.47,Wants,Apple Card,Hotel
+2023-07-17,Orion Resorts Mobile,-7.39,Wants,Apple Card,Hotel
+2023-07-17,Orion Resorts Mobile,-30.34,Wants,Apple Card,Hotel
+2023-07-17,Bean Brew Adjustments,-0.23,No Tag,Apple Card,Coffee Shops
+2023-07-17,Orion Resorts Mobile,-22.67,Wants,Apple Card,Hotel
+2023-07-17,Orion Resorts Refund,22.67,No Tag,Apple Card,Income
+2023-07-17,DataSync Cloud Services,-10.72,Wants,Daily,Uncategorized
+2023-07-16,Silver Wok Diner,-35.59,Wants,Apple Card,Restaurants
+2023-07-15,TechStore Direct,-9.99,Wants,Apple Card,Electronics & Software
+2023-07-14,Orion Resorts,-32.42,Wants,Apple Card,Hotel
+2023-07-14,CitySpace Parking,-19.03,Wants,Apple Card,Parking
+2023-07-14,Finance Fee,-7.16,Debt & Savings,CREDIT CARD,Finance Charge
+2023-07-13,Local Fresh Market,-14.0,Musts,Apple Card,Groceries
+2023-07-13,BookMaze Store 0270,-6.8,Musts,Apple Card,Groceries
+2023-07-13,Ruby's Diner,-37.39,Wants,Apple Card,Restaurants
+2023-07-13,BookMaze Store,-23.08,Musts,Apple Card,Books
+2023-07-13,Crystal Cellars,-180.33,Wants,Apple Card,Alcohol & Bars
+2023-07-13,Stylish Cuts Salon,-23.83,Wants,Apple Card,Hair
+2023-07-13,Contracting,1102.98,No Tag,Daily,Paycheck
+2023-07-12,BookMaze Store,-37.13,Musts,Apple Card,Books
+2023-07-12,Golden Grill Eatery,-6.48,Wants,Apple Card,Restaurants
+2023-07-12,Talk 'n' Sip Café,-18.28,Wants,Apple Card,Restaurants
+2023-07-12,Talk 'n' Sip Café,-10.05,Wants,Apple Card,Restaurants
+2023-07-12,Platinum Bites Diner,-6.7,Wants,Apple Card,Restaurants
+2023-07-12,UrbanPark Parking,-4.1,Wants,Apple Card,Parking
+2023-07-12,BankSafe AutoPay,-155.0,Debt & Savings,Savings Account,Credit Card Payment
+2023-07-12,CityRide Services,-6.27,Wants,Daily,Ride Share
+2023-07-12,CityRide Services,-62.67,Wants,Daily,Ride Share
+2023-07-12,MarketMall Online,-16.36,Wants,Daily,Shopping
+2023-07-12,Guardian Auto Ins,-229.83,Musts,Daily,Auto Insurance
+2023-07-12,PropTech Leasing,2137.89,No Tag,Property 2 X8744,Income
+2023-07-11,BankSafe Payment,155.0,Debt & Savings,CREDIT CARD,Credit Card Payment
+2023-07-11,GreenLeaf Realty,2030.0,No Tag,Property 1,Income
+2023-07-11,CityRide Services,-1.97,Wants,Daily,Ride Share
+2023-07-11,FitHub Subscription,-19.64,Wants,Daily,Gym
+2023-07-10,Stellar Stay,-1971.98,Wants,Apple Card,Hotel
+2023-07-10,CommConnect Mobile,-50.0,Musts,Property 1,Mobile Phone
+2023-07-10,TravelBliss Resorts,-157.5,Musts,Daily,Vacation
+2023-07-09,CinemaWorld,-12.04,Wants,Apple Card,Movies & DVDs
+2023-07-09,Local Fresh Market,-6.01,Musts,Apple Card,Groceries
+2023-07-09,CinemaWorld,-4.68,Wants,Apple Card,Movies & DVDs
+2023-07-09,GreenValley Fresh Foods,-6.01,Musts,Apple Card,Groceries
+2023-07-09,Mystic Movies,-4.68,Wants,Apple Card,Movies & DVDs
+2023-07-08,Spotlight Events,-30.34,Wants,Apple Card,Entertainment
+2023-07-08,Literary Land,-131.97,Musts,Apple Card,Books
+2023-07-08,Corporate Connect,-2.14,Wants,Apple Card,Business Services
+2023-07-08,Spotlight Events,-62.22,Wants,Apple Card,Entertainment
+2023-07-08,Citizens Bank Finance Transfer,200.0,No Tag,Personal Emergency,Transfer
+2023-07-08,Citizens Bank Savings Transfer,-200.0,No Tag,Daily,Transfer
+2023-07-07,ComLink Telecom,-373.3,Musts,Daily,Home Phone
+2023-07-06,BlueSky Airlines,-50.0,Wants,Apple Card,Vacation
+2023-07-06,BlueSky Airlines,-3828.05,Wants,Apple Card,Vacation
+2023-07-06,Fashion Frontier,-9.26,Wants,Apple Card,Shopping
+2023-07-06,Fashion Frontier,-4.96,Wants,Apple Card,Misc Expenses
+2023-07-06,MarketMood Groceries,-67.05,Musts,Apple Card,Groceries
+2023-07-06,Pixel Shop,-49.0,Wants,Daily,Shopping
+2023-07-06,MediaMakers INC.,8275.75,No Tag,Daily,Television
+2023-07-06,Gourmet Delights,-20.0,Wants,Daily,Restaurants
+2023-07-06,MediaMakers INC.,1500.0,No Tag,Savings Account,Television
+2023-07-05,TopShelf Tavern,-20.99,Wants,Apple Card,Alcohol & Bars
+2023-07-05,MedicCare Clinic,-73.78,Wants,Apple Card,Doctor
+2023-07-05,TopShelf Tavern,-4.01,Wants,Apple Card,Alcohol & Bars
+2023-07-05,Fashion Frontier,-9.26,Wants,Apple Card,Shopping
+2023-07-05,Bank Bonus,30.42,No Tag,Tuition,Interest Income
+2023-07-05,Bank Bonus,3.98,No Tag,Travel,Interest Income
+2023-07-05,Bank Bonus,0.57,No Tag,Daily,Interest Income
+2023-07-05,Bank Bonus,14.96,No Tag,Property 1 Savings,Interest Income
+2023-07-05,Bank Bonus,8.69,No Tag,Property 2 Savings,Interest Income
+2023-07-05,Bank Bonus,17.14,No Tag,Savings Account,Interest Income
+2023-07-05,Bank Bonus,0.02,No Tag,Property 1,Interest Income
+2023-07-05,Bank Bonus,5.89,No Tag,Rental Unit 2,Interest Income
+2023-07-05,Bank Bonus,27.99,No Tag,Personal Emergency,Interest Income
+2023-07-05,HomeSecure Finance,-908.05,Musts,Property 1,Mortgage & Rent
+2023-07-05,HomeLock Finance,-1025.71,Musts,Property 1,Mortgage & Rent
+2023-07-05,Education Elite,-1071.0,Musts,Daily,Tuition
+2023-07-04,Vacation Ventures,894.86,No Tag,Apple Card,Income
+2023-07-04,MedicCare Clinic,-21.42,Wants,Apple Card,Doctor
+2023-07-04,Cafe Balance,-8.95,No Tag,Apple Card,Coffee Shops
+2023-07-04,Cafe Balance,-13.5,No Tag,Apple Card,Coffee Shops
+2023-07-04,Vacation Ventures,1350.01,No Tag,Apple Card,Income
+2023-07-04,Delightful Dine,-10.69,Wants,Apple Card,Restaurants
+2023-07-04,BeanDream,-11.9,Wants,Daily,Coffee Shops
+2023-07-04,FuelFiesta,-69.63,Musts,Daily,Gas & Fuel
+2023-07-03,Skyward Airlines,-4436.75,Wants,Apple Card,Vacation
+2023-07-03,Palm Haven Realty,-2600.0,Musts,Rental Unit 2,Mortgage & Rent
+2023-07-03,SecureGuard Premium,-14.25,Musts,Daily,Financial
+2023-07-03,DigiTrans,-50.94,Wants,Daily,Transfer
+2023-07-03,Mystic Shop,-32.63,Wants,Daily,Shopping
+2023-07-03,Gourmet Pantry,-144.14,Musts,Daily,Groceries
+2023-07-03,TuneFlow,-9.99,Wants,Daily,Music
+2023-07-03,Novelty Nook,-194.08,Wants,Daily,Shopping
+2023-07-02,BankShift Transfer,1025.0,No Tag,Property 1,Transfer
+2023-07-02,BankShift Transfer,920.0,No Tag,Property 1,Transfer
+2023-07-02,Vintage Vineyards,-75.43,Wants,Daily,Alcohol & Bars
+2023-07-02,BankShift Transfer,1025.0,No Tag,Property 2 X8744,Transfer
+2023-07-02,BankShift Transfer,-1025.0,No Tag,Property 2 X8744,Transfer
+2023-07-02,BankShift Transfer,-920.0,No Tag,Property 1 Savings,Transfer
+2023-07-02,BankShift Transfer,-1025.0,No Tag,Property 2 Savings,Transfer
+2023-07-01,Monthly Finance Charge,-178.95,Debt & Savings,Apple Card,Finance Charge
+2023-07-01,QuickBite Cafe,-12.34,Wants,Daily,Fast Food

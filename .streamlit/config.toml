@@ -1,0 +1,9 @@
+[theme]
+base="dark"
+
+[server]
+port = 8502
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false

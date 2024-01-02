@@ -1,0 +1,139 @@
+Date,Description,Amount,Tag,Account,Category
+2023-06-30,Contracting,1102.98,No Tag,Daily,Paycheck
+2023-06-30,Delizioso Bistro,-236.61,Wants,Daily,Restaurants
+2023-06-29,BankGuard,-9000.0,Musts,Daily,Check
+2023-06-29,TransactGlobal,-42.39,Wants,Daily,Transfer
+2023-06-29,WebConnect Services,-59.99,Musts,Daily,Internet
+2023-06-29,FreshMeadows Market,-90.41,Musts,Daily,Groceries
+2023-06-29,BankGuard,-3029.0,Musts,Daily,Check
+2023-06-29,CyberFinance,-216.15,Debt & Savings,Daily,Credit Card Payment
+2023-06-28,SwiftSave Transfer,-3000.0,No Tag,Savings Account,Transfer
+2023-06-28,SwiftSave Deposit,3000.0,No Tag,Daily,Transfer
+2023-06-28,TransactGlobal,-22.14,Wants,Daily,Transfer
+2023-06-28,Breakfast Kingdom,-54.89,Wants,Daily,Restaurants
+2023-06-28,LifeShield Insurance,-126.16,Musts,Daily,Life Insurance
+2023-06-27,PrimeProperties,-1300.0,Musts,Property 2 Savings,Mortgage & Rent
+2023-06-27,TransactGlobal,-41.42,Wants,Daily,Transfer
+2023-06-27,HighwayPass,-40.0,Wants,Daily,Auto & Transport
+2023-06-26,FashionForward,-10.0,Musts,Daily,Clothing
+2023-06-26,ShopMajestic,-280.76,Wants,Daily,Shopping
+2023-06-26,PrimeProperties,-600.0,Musts,Daily,Mortgage & Rent
+2023-06-26,DebtDefender,-169.0,Debt & Savings,Daily,Credit Card Payment
+2023-06-26,PlayPal,-1.99,Wants,Daily,Entertainment
+2023-06-26,ShopMajestic,-136.39,Wants,Daily,Shopping
+2023-06-26,TransactGlobal,-27.71,Wants,Daily,Transfer
+2023-06-26,TransactGlobal,-33.8,Wants,Daily,Transfer
+2023-06-24,AllianceBank Transfer,200.0,No Tag,Personal Emergency,Transfer
+2023-06-24,AllianceBank Transfer,-200.0,No Tag,Daily,Transfer
+2023-06-24,JavaJunction,-16.85,Wants,Daily,Coffee Shops
+2023-06-23,FreshMeadows Online,-249.87,Musts,Daily,Groceries
+2023-06-23,TransactGlobal,-43.44,Wants,Daily,Transfer
+2023-06-23,TransactGlobal,-32.28,Wants,Daily,Transfer
+2023-06-23,QuickCash ATM,-56.96,Wants,Daily,Cash & ATM
+2023-06-22,StreamFlix Studios,8275.75,No Tag,Daily,Television
+2023-06-22,CruiseAdventures,-49.6,Wants,Daily,Cash & ATM
+2023-06-22,StreamFlix Studios,1500.0,No Tag,Savings Account,Television
+2023-06-21,Gourmet Gala,-100.0,Wants,Daily,Restaurants
+2023-06-20,FreshMeadows Online,-70.33,Musts,Daily,Groceries
+2023-06-20,LibertyDine,-124.26,Wants,Daily,Food & Dining
+2023-06-20,BackupGuard,-11.08,Wants,Daily,Uncategorized
+2023-06-20,TransactGlobal,-37.66,Wants,Daily,Transfer
+2023-06-20,TransactGlobal,-40.91,Wants,Daily,Transfer
+2023-06-18,MegaMart,-36.43,Wants,Daily,Shopping
+2023-06-16,TransactGlobal,-55.8,Wants,Daily,Transfer
+2023-06-15,Contracting,1102.98,No Tag,Daily,Paycheck
+2023-06-14,TechGadget Store,-9.99,Wants,Apple Card,Electronics & Software
+2023-06-13,FreshMeadows Online,-276.58,Musts,Daily,Groceries
+2023-06-13,TransactGlobal,-55.33,Wants,Daily,Transfer
+2023-06-13,TransactGlobal,-51.4,Wants,Daily,Transfer
+2023-06-12,GoldenEra Savings,-1920.0,No Tag,Property 1,Transfer
+2023-06-12,GoldenEra Deposit,4000.0,No Tag,Property 1 Savings,Transfer
+2023-06-12,Sparkle Interest Group,1920.0,No Tag,Property 1 Savings,Interest Income
+2023-06-12,SilverLine Transfers,11781.0,No Tag,Tuition,Transfer
+2023-06-12,SilverLine Travels,1542.0,No Tag,Travel,Transfer
+2023-06-12,Golden Interest Innovations,2570.0,No Tag,Account 2,Interest Income
+2023-06-12,SilverLine Safekeep,4000.0,No Tag,Property 2 Savings,Transfer
+2023-06-12,Spectrum Savings Ltd,-2570.0,No Tag,Daily,Transfer
+2023-06-12,CoffeeHaven,-10.2,Wants,Daily,Coffee Shops
+2023-06-12,Spectrum Saver,-1542.0,No Tag,Personal Emergency,Transfer
+2023-06-12,Spectrum Secure,-4000.0,No Tag,Personal Emergency,Transfer
+2023-06-12,Secure Savings Spot,-4000.0,No Tag,Personal Emergency,Transfer
+2023-06-12,Spectrum Supreme,-11781.0,No Tag,Personal Emergency,Transfer
+2023-06-12,AutoShield Pros,-229.83,Musts,Daily,Auto Insurance
+2023-06-12,DigitalBillboard,-12.0,Wants,Daily,Advertising
+2023-06-12,QuickLinks Transfer,-106.69,Wants,Daily,Transfer
+2023-06-12,VirtuPay,-10.0,Wants,Daily,Transfer
+2023-06-12,QuickLinks Elite,-30.93,Wants,Daily,Transfer
+2023-06-12,VirtuPay,-10.0,Wants,Daily,Transfer
+2023-06-12,SecureGuard Fees,-30.0,Musts,Daily,Fees & Charges
+2023-06-12,CardSavers Inc,-458.0,Debt & Savings,Daily,Credit Card Payment
+2023-06-12,ShopEra,-13.03,Wants,Daily,Shopping
+2023-06-12,RealtyRewards,1911.2,No Tag,Property 1,Income
+2023-06-12,TravelJoy Resorts,-2694.86,Wants,Apple Card,Vacation
+2023-06-10,BankingBridges,2000.79,Debt & Savings,Apple Card,Transfer
+2023-06-10,Interest Innovations,200.0,No Tag,Personal Emergency,Interest Income
+2023-06-10,GoldTrust Transfer,-200.0,No Tag,Daily,Transfer
+2023-06-10,FastBites,-24.53,Wants,Daily,Fast Food
+2023-06-09,Secure Savings Ltd,60.0,No Tag,Property 1,Transfer
+2023-06-09,GoldenTrust Savings,-60.0,No Tag,Property 1 Savings,Transfer
+2023-06-09,PayPortal,931.25,No Tag,Daily,Transfer
+2023-06-09,MarketMagic,8.99,Wants,Daily,Income
+2023-06-09,DrivePass,-40.0,Wants,Daily,Auto & Transport
+2023-06-09,EntertainHub,-123.68,Wants,Daily,Entertainment
+2023-06-08,CallComms,-50.0,Musts,Property 1,Mobile Phone
+2023-06-08,QuickLinks Transfer,-29.24,Wants,Daily,Transfer
+2023-06-08,ShopEmpire,-49.99,Wants,Daily,Shopping
+2023-06-08,VirtuPay,-80.0,Wants,Daily,Transfer
+2023-06-08,GroceryGenius,-204.12,Musts,Daily,Groceries
+2023-06-08,MediaMoguls,8275.76,No Tag,Daily,Television
+2023-06-08,KnowledgeNest,-1071.0,Musts,Daily,Tuition
+2023-06-08,ShopEra,-18.82,Wants,Daily,Shopping
+2023-06-08,MediaMoguls,1500.0,No Tag,Savings Account,Television
+2023-06-07,SilverLine Safeguard,1071.0,No Tag,Daily,Transfer
+2023-06-07,QuickLinks Transfer,-54.46,Wants,Daily,Transfer
+2023-06-07,GoldTrust Transfer,-1071.0,No Tag,Personal Emergency,Transfer
+2023-06-06,QuickLinks Premium,-13.39,Wants,Daily,Transfer
+2023-06-06,OceanStream MarketCo,-49.0,Musts,Daily,Groceries
+2023-06-05,ProfitLink,-0.89,No Tag,Daily,Interest Income
+2023-06-05,GlobalATM Rebate,9.0,No Tag,Daily,ATM Fee
+2023-06-05,ProfitLink,0.01,No Tag,Property 2 X8744,Interest Income
+2023-06-05,ProfitLink,7.93,No Tag,Property 2 Savings,Interest Income
+2023-06-05,ProfitLink,7.26,No Tag,Account 2,Interest Income
+2023-06-05,ProfitLink,88.36,No Tag,Personal Emergency,Interest Income
+2023-06-05,ProfitLink,0.09,No Tag,Property 1,Interest Income
+2023-06-05,ProfitLink,15.09,No Tag,Savings Account,Interest Income
+2023-06-05,ProfitLink,4.19,No Tag,Property 1 Savings,Interest Income
+2023-06-05,TrendyAds Ltd,-14.0,Wants,Daily,Advertising
+2023-06-05,HelpingHand Charity,-64.5,Musts,Daily,Charity
+2023-06-05,TrendyAds Ltd,-14.0,Wants,Daily,Advertising
+2023-06-05,SwiftTransfer Inc,-58.92,Wants,Daily,Transfer
+2023-06-05,MelodyStream,-9.99,Wants,Daily,Music
+2023-06-05,SwiftTransfer Inc,-40.26,Wants,Daily,Transfer
+2023-06-05,SwiftTransfer Inc,-33.66,Wants,Daily,Transfer
+2023-06-05,SwiftTransfer Inc,-93.09,Wants,Daily,Transfer
+2023-06-05,Chef's Delight Diner,-32.74,Wants,Daily,Restaurants
+2023-06-05,Chef's Delight Diner,-65.48,Wants,Daily,Restaurants
+2023-06-04,HealWell Pharma,-15.0,Musts,Daily,Pharmacy
+2023-06-03,CuppaJoy Cafe,-11.7,Wants,Daily,Coffee Shops
+2023-06-02,SecuredCheck #1073,-9000.0,Musts,Daily,Check
+2023-06-02,SecuredCheck #1074,-3029.0,Musts,Daily,Check
+2023-06-02,SmoothMove Logistics,-50.0,Musts,Apple Card,Business Services
+2023-06-02,SmoothMove Logistics,-603.57,Musts,Apple Card,Business Services
+2023-06-02,HomeCare Estates,-2600.0,Musts,Account 2,Mortgage & Rent
+2023-06-02,QuickBites Eatery,-14.0,Wants,Daily,Fast Food
+2023-06-02,FreshMart Grocers,-36.36,Musts,Daily,Groceries
+2023-06-02,AutoPass Services,-40.0,Wants,Daily,Auto & Transport
+2023-06-02,SwiftTransfer Inc,-42.3,Wants,Daily,Transfer
+2023-06-02,ShopJoy,-179.0,Wants,Daily,Shopping
+2023-06-02,CuppaJoy Cafe,-10.7,Wants,Daily,Coffee Shops
+2023-06-02,GlobalCash Bank,-803.0,Musts,Daily,Cash & ATM
+2023-06-02,HouseSecure Loans,-1025.71,Musts,Property 2 X8744,Mortgage & Rent
+2023-06-02,HouseSecure Loans,-898.05,Musts,Property 1,Mortgage & Rent
+2023-06-01,JourneyBookings Inc,293.78,Debt & Savings,CREDIT CARD,Credit Card Payment
+2023-06-01,SkyWings Airlines,-19.98,Wants,CREDIT CARD,Air Travel
+2023-06-01,FinanceGuard,-163.21,Debt & Savings,Apple Card,Finance Charge
+2023-06-01,ProtectFirst,-14.25,Musts,Daily,Financial
+2023-06-01,BurgerHeaven,-14.03,Wants,Daily,Fast Food
+2023-06-01,GlobalCash Bank,-503.0,Musts,Daily,Cash & ATM
+2023-06-01,BuyHappy,-52.92,Wants,Daily,Shopping
+2023-06-01,BuyHappy,-26.16,Wants,Daily,Shopping

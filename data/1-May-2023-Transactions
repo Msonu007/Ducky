@@ -1,0 +1,157 @@
+Date,Description,Amount,Tag,Account,Category
+2023-05-30,ACH Deposit from Online Account,195.11,Debt & Savings,Apple Card,Transfer
+2023-05-30,ElectroGizmo Purchase,-5.99,Wants,Apple Card,Electronics & Software
+2023-05-30,SweetTreats Payment,76.89,No Tag,Apple Card,Income
+2023-05-30,Home Security Premium,-1960.0,Musts,Property 1 Savings,Home Insurance
+2023-05-30,PAYPAL INST XFER,-18.35,Wants,Daily,Transfer
+2023-05-30,VENMO PAYMENT,-30.0,Wants,Daily,Transfer
+2023-05-30,DeliciousDine Bill,-44.55,Wants,Daily,Restaurants
+2023-05-30,McQuick Snacks,-14.36,Wants,Daily,Fast Food
+2023-05-30,Gadgets Galore Purchase,-31.95,Wants,Daily,Shopping
+2023-05-30,Café Buzz,-26.45,Wants,Daily,Coffee Shops
+2023-05-30,PAYPAL INST XFER,-80.6,Wants,Daily,Transfer
+2023-05-30,VENMO PAYMENT,-15.0,Wants,Daily,Transfer
+2023-05-30,Yummy Bites,-25.29,Wants,Daily,Fast Food
+2023-05-30,PAYPAL INST XFER,-28.55,Wants,Daily,Transfer
+2023-05-30,VENMO PAYMENT,-15.0,Wants,Daily,Transfer
+2023-05-30,SecurityLife Withdrawal,-126.16,Musts,Daily,Life Insurance
+2023-05-29,Artisan Cravings,-17.82,Wants,Daily,Restaurants
+2023-05-29,Flame-Grilled Delights,-65.4,Wants,Daily,Restaurants
+2023-05-29,Online Transfer,-1000.0,No Tag,Property 2 X8744,Transfer
+2023-05-29,Citizens Bank Transfer,-1000.0,No Tag,Property 2 Savings,Transfer
+2023-05-29,Burger Royale,-15.02,Wants,Apple Card,Fast Food
+2023-05-28,ElectroGizmo Purchase,-1.99,Wants,Apple Card,Electronics & Software
+2023-05-27,Citizens Bank Transfer,200.0,No Tag,Computer,Interest Income
+2023-05-27,Citizens Bank Transfer,-200.0,No Tag,Daily,Transfer
+2023-05-26,Threads & Trends Outfitters,-10.0,Musts,Daily,Clothing
+2023-05-26,Online Transfer,-782.0,No Tag,Property 1,Transfer
+2023-05-26,Online Transfer,1000.0,No Tag,Property 2 Savings,Transfer
+2023-05-26,Citizens Bank Transfer,782.0,No Tag,Property 1 Savings,Interest Income
+2023-05-26,Online Transfer,1750.0,No Tag,Property 1 Savings,Transfer
+2023-05-26,Online Transfer,-1750.0,No Tag,Online Savings Account,Transfer
+2023-05-26,Online Transfer,-1000.0,No Tag,Online Savings Account,Transfer
+2023-05-25,PAYPAL INST XFER,-25.26,Wants,Daily,Transfer
+2023-05-25,PAYPAL INST XFER~ Future Amount: 34.67 ~ Tran: ACHDW,-34.67,Wants,Daily,Transfer
+2023-05-25,Entertainment Subscription Payment,8311.85,No Tag,Daily,Television
+2023-05-25,Online Savings Account Transfer,1500.0,No Tag,Online Savings Account,Television
+2023-05-24,Grocery Haul,-17.47,Musts,Daily,Groceries
+2023-05-24,Grocery Essentials,-18.97,Musts,Daily,Groceries
+2023-05-24,Home Mortgage Payment,-1850.0,Musts,Property 2 Savings,Mortgage & Rent
+2023-05-24,Online Groceries Purchase,-301.71,Musts,Daily,Groceries
+2023-05-24,PAYPAL INST XFER,-38.08,Wants,Daily,Transfer
+2023-05-24,Online Entertainment Purchase,-1.99,Wants,Daily,Entertainment
+2023-05-24,Online Shopping Cart,-2.95,Wants,Apple Card,Shopping
+2023-05-23,Home Mortgage Payment,-2678.77,Musts,Property 2 Savings,Mortgage & Rent
+2023-05-23,Online Savings Account Transfer,250.0,No Tag,Property 2 Savings,Transfer
+2023-05-23,Online Savings Account Transfer,-250.0,No Tag,Online Savings Account,Transfer
+2023-05-23,Online Shopping Spree,-2.73,Wants,Daily,Shopping
+2023-05-23,PAYPAL INST XFER,-61.44,Wants,Daily,Transfer
+2023-05-23,Café Buzz,-16.15,Wants,Apple Card,Coffee Shops
+2023-05-22,Check Payment #1072,-2219.5,Musts,Daily,Check
+2023-05-22,PAYPAL INST XFER,-48.99,Wants,Daily,Transfer
+2023-05-22,TransferWise Transfer,-17.44,Wants,Daily,Transfer
+2023-05-22,Café Sip,-13.85,Wants,Apple Card,Coffee Shops
+2023-05-22,FlameGrill Steakhouse,-380.0,Wants,Apple Card,Restaurants
+2023-05-20,Grapevine Vineyard,-183.34,Wants,Apple Card,Restaurants
+2023-05-19,TransferWise Transfer,-25.77,Wants,Daily,Transfer
+2023-05-19,TransferWise Transfer,-74.16,Wants,Daily,Transfer
+2023-05-18,McQuick Snacks,-14.25,Wants,Apple Card,Fast Food
+2023-05-18,TransferWise Transfer,-7.94,Wants,Daily,Transfer
+2023-05-18,Café Buzz,-10.2,Wants,Daily,Coffee Shops
+2023-05-18,TransferWise Transfer~ Future Amount: 53.47 ~ Tran: ACHDW,-53.47,Wants,Daily,Transfer
+2023-05-18,TransferWise Transfer~ Future Amount: 7.18 ~ Tran: ACHDW,-7.18,Wants,Daily,Transfer
+2023-05-17,LocalBites Eatery,-144.61,Wants,Apple Card,Vacation
+2023-05-17,TransferWise Transfer,-47.41,Wants,Daily,Transfer
+2023-05-17,TransferWise Transfer,-63.14,Wants,Daily,Transfer
+2023-05-17,Digital Solutions Payment,-10.72,Wants,Daily,Uncategorized
+2023-05-16,Café Buzz,-5.25,Wants,Daily,Coffee Shops
+2023-05-16,TransferWise Transfer,-31.36,Wants,Daily,Transfer
+2023-05-16,Electricity Bill Payment,-597.2,Musts,Daily,Utilities
+2023-05-15,Contracting,1310.2,No Tag,Daily,Paycheck
+2023-05-15,TransferWise Transfer,-61.44,Wants,Daily,Transfer
+2023-05-15,TransferWise Transfer,-66.5,Wants,Daily,Transfer
+2023-05-14,Interest Charge Payment,-1.29,Debt & Savings,CREDIT CARD,Finance Charge
+2023-05-14,ElectroGizmo Purchase,-9.99,Wants,Apple Card,Electronics & Software
+2023-05-14,LocalEats Dining,-25.55,Wants,Daily,Restaurants
+2023-05-13,Home Improvement Supplies,-27.03,Wants,Daily,Home Improvement
+2023-05-13,Crafty Creations Purchase,-37.07,Wants,Daily,Hobbies
+2023-05-13,Transfer to Money Market Account,-200.0,No Tag,Daily,Transfer
+2023-05-13,Transfer from Interest Checking,-200.0,No Tag,Computer,Interest Income
+2023-05-12,Monthly Rent Income,41.0,No Tag,Property 2 X8744,Income
+2023-05-12,Home Insurance Premium Payment,-229.83,Musts,Daily,Auto Insurance
+2023-05-12,Online Store Purchase,-10.63,Wants,Daily,Shopping
+2023-05-12,Online Store Purchase,-35.19,Wants,Daily,Shopping
+2023-05-11,Real Estate Commission Payment,1730.18,No Tag,Property 1,Income
+2023-05-11,Monthly Payroll,8452.15,No Tag,Daily,Television
+2023-05-11,TransferWise Transfer~ Future Amount: 165.93 ~ Tran: ACHDW,-165.93,Wants,Daily,Transfer
+2023-05-11,Facebook Advertising Payment,-3.92,Wants,Daily,Advertising
+2023-05-11,Monthly Payroll,1500.0,No Tag,Online Savings Account,Television
+2023-05-10,Grocery Shopping,-12.08,Musts,Daily,Groceries
+2023-05-10,State Tax Refund,417.0,No Tag,Daily,State Tax
+2023-05-10,Grocery Shopping,-4.15,Musts,Daily,Groceries
+2023-05-09,Parking Fee Payment,-3.0,Wants,Daily,Parking
+2023-05-08,Utility Payment,-50.0,Musts,Property 1,Mobile Phone
+2023-05-08,ElectroGizmo Purchase,-164.05,Wants,Daily,Electronics & Software
+2023-05-08,Local Taste Bistro,-77.31,Wants,Daily,Restaurants
+2023-05-08,Income Boost,32.68,Wants,Daily,Income
+2023-05-08,DeliciousDine Bill,-139.57,Wants,Apple Card,Restaurants
+2023-05-08,TransferWise Transfer,-49.21,Wants,Daily,Transfer
+2023-05-08,TransferWise Transfer,-45.81,Wants,Daily,Transfer
+2023-05-08,TransferWise Transfer~ Future Amount: 34.33 ~ Tran: ACHDW,-34.33,Wants,Daily,Transfer
+2023-05-07,ATM Withdrawal Fee,-3.0,No Tag,Daily,ATM Fee
+2023-05-07,Local Bank Withdrawal,-400.0,Musts,Daily,Cash & ATM
+2023-05-07,Tasty Grill & BBQ,-87.0,Wants,Daily,Restaurants
+2023-05-07,ElectroGadgets Store,-66.45,Wants,Daily,Electronics & Software
+2023-05-06,The Laughter Lounge,-187.57,Wants,Apple Card,Restaurants
+2023-05-06,Grapevine Vineyard,-119.22,Wants,Apple Card,Restaurants
+2023-05-06,ChatGPT Subscription,-20.0,Wants,Daily,Restaurants
+2023-05-05,Delicious Delights Takeout,-51.24,Wants,Apple Card,Food Delivery
+2023-05-05,AT&T Home Phone Payment,-198.51,Musts,CREDIT CARD,Home Phone
+2023-05-05,Invest Transfer Out,-500.0,No Tag,Online Savings Account,Transfer
+2023-05-05,Interest Earned,24.87,No Tag,Online Savings Account,Interest Income
+2023-05-05,Interest Earned,0.05,No Tag,Property 2 X8744,Interest Income
+2023-05-05,PaddleTech Online Store,-49.0,Wants,Daily,Shopping
+2023-05-05,Chase Credit Card Payment,-500.0,Debt & Savings,Daily,Credit Card Payment
+2023-05-05,Comedy Show Tickets,-20.64,Wants,Daily,Uncategorized
+2023-05-05,Comedy Show Tickets,-47.47,Wants,Daily,Gifts & Donations
+2023-05-05,Interest Earned,0.36,No Tag,Daily,Interest Income
+2023-05-05,Interest Earned,7.66,No Tag,Account 2,Interest Income
+2023-05-05,Interest Earned,12.68,No Tag,Property 2 Savings,Interest Income
+2023-05-05,Interest Earned,0.05,No Tag,Property 1,Interest Income
+2023-05-05,Interest Earned,20.43,No Tag,Computer,Interest Income
+2023-05-05,Interest Earned,3.49,No Tag,Property 1 Savings,Interest Income
+2023-05-04,Legal Services Payment,-212.5,Musts,Daily,Mortgage & Rent
+2023-05-04,Payment Acknowledgment,500.0,Debt & Savings,CREDIT CARD,Credit Card Payment
+2023-05-04,Online Purchase,-2600.0,No Tag,Account 2,Transfer
+2023-05-04,Grocery Shopping,-205.54,Musts,Daily,Groceries
+2023-05-04,Online Purchase,-3000.0,No Tag,Daily,Transfer
+2023-05-04,Online Transfer to Savings,-2600.0,No Tag,Online Savings Account,Transfer
+2023-05-04,Online Transfer to Checking,-3000.0,No Tag,Online Savings Account,Transfer
+2023-05-03,Music Subscription,-9.99,Wants,CREDIT CARD,Music
+2023-05-03,ATM Fee,-1.75,No Tag,Daily,ATM Fee
+2023-05-03,Local ATM Withdrawal,-260.0,Wants,Daily,Cash & ATM
+2023-05-03,Property Management Payment,-2600.0,Musts,Account 2,Mortgage & Rent
+2023-05-03,Online Transfer to Money Market,-16250.35,No Tag,Daily,Transfer
+2023-05-03,Check Payment,-3029.0,Musts,Daily,Check
+2023-05-03,Federal Tax Refund,-16250.35,No Tag,Daily,Federal Tax
+2023-05-03,Check Payment,-9000.0,Musts,Daily,Check
+2023-05-03,Loan Payment,-898.05,Musts,Property 1,Mortgage & Rent
+2023-05-03,Loan Payment,-1025.71,Musts,Property 2 X8744,Mortgage & Rent
+2023-05-03,Online Transfer from Checking,16250.35,No Tag,Computer,Interest Income
+2023-05-03,Delicious Delights Takeout,-73.84,Wants,Apple Card,Food Delivery
+2023-05-02,Online Transfer to Checking,-900.0,No Tag,Property 1 Savings,Transfer
+2023-05-02,Online Transfer to Checking,-12029.0,No Tag,Online Savings Account,Transfer
+2023-05-02,Aqui Cal Mex Restaurant,-60.11,Wants,Daily,Restaurants
+2023-05-02,Online Transfer from Savings,12029.0,No Tag,Daily,Transfer
+2023-05-02,Recology Utility Payment,-86.35,Musts,Daily,Utilities
+2023-05-02,Transfer to Friend,-80.0,Wants,Daily,Transfer
+2023-05-02,Online Transfer from Savings,1027.0,No Tag,Property 2 X8744,Transfer
+2023-05-02,Online Transfer from Savings,900.0,No Tag,Property 1,Transfer
+2023-05-02,Online Transfer to Checking,-1027.0,No Tag,Property 2 Savings,Transfer
+2023-05-01,Interest Charge,-154.91,Debt & Savings,Apple Card,Finance Charge
+2023-05-01,Frontier Communications Payment,-59.99,Musts,Daily,Internet
+2023-05-01,Online Advertising Payment,-82.98,Wants,Daily,Advertising
+2023-05-01,West Coast Life Insurance Payment,-15.0,Musts,Daily,Life Insurance
+2023-05-01,TransferWise Transfer,-40.13,Wants,Daily,Transfer
+2023-05-01,Café Sip,-4.95,Wants,Daily,Coffee Shops
+2023-05-01,Safeguard Insurance Premium Payment,-14.25,Musts,Daily,Financial
